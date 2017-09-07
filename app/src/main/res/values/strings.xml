@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">David Lee</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Tips</string>
+    <string name="button2">Login</string>
+    <string name="editTextUserId">User ID</string>
+    <string name="editTextPwd">Password</string>
+    <string name="button3">login</string>
+    <string name="button4">cancel</string>
+</resources>
